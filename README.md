@@ -17,7 +17,6 @@
 <div align ="center">
   <h1>Featured Work</h1>
   <p>FoodMap</p>
-  
   <img src= "https://media.giphy.com/media/Ql3DDd9B7JB7FaKcv6/giphy.gif" alt="Foodmap project Demo"
   
        </div>
