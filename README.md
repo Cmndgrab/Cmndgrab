@@ -18,8 +18,7 @@
   <h1>Featured Work</h1>
   <a href="https://six-weddings-and-a-seamonkey-frontend.onrender.com/">
   <p>FoodMap</p>
-  
-       </a>
+   </a>
   </div>
      <img src= "https://media.giphy.com/media/Ql3DDd9B7JB7FaKcv6/giphy.gif" alt="Foodmap project Demo"
        
