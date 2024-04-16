@@ -2,13 +2,9 @@
   <p style="font-size: 200px">C̷̻̥̥̖͔̠̅̓̈̀̿͝M̸̨̱̳̟̦̘̓́̀̌̚͝Ņ̴̛̭͓̯̩̏̍́̍̅D̸̨̳̲̹̏̽̔g̴̞̼͚͒r̶̨͚͛̑̂̐ä̴͎̯̼̼͙̭́b̷͈͈͕̎ </p>
   <img src="https://media4.giphy.com/media/YRKbj1avik4oS1uY3O/giphy.gif"/>
 </div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/daniel-b-939078252/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+
   </a>
-  <a href="https://twitter.com/codingGrab">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  
   
 </div>
 <div align="center">
